@@ -1,2 +1,2 @@
 # sqlBuilder
-A lightweight and database-agnostic SQL query builder for Go. Supports dynamic conditions, parameterized queries, and placeholder formats for PostgreSQL, MySQL, and more.
+A lightweight and database-agnostic SQL query builder for Go. Provides a type-safe, declarative API for building dynamic conditions with automatic placeholder formatting for PostgreSQL, MySQL, and more.
